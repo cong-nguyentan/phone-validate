@@ -4,6 +4,8 @@ namespace congnguyentan\PhoneValidate;
 
 use Illuminate\Support\ServiceProvider;
 
+use Illuminate\Support\Facades\Validator;
+
 class PhoneValidateServiceProvider extends ServiceProvider
 {
     /**
