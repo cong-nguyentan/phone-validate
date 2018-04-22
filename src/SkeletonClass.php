@@ -1,6 +1,6 @@
 <?php
 
-namespace congnguyentan\PhoneValidate;
+namespace congnguyentan\phone-validate;
 
 class SkeletonClass
 {

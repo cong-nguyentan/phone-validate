@@ -1,8 +1,8 @@
 <?php
 
-namespace congnguyentan\PhoneValidate;
+namespace congnguyentan\phone-validate;
 
-class PhoneValidate{
+class phone-validate{
     /**
 	 * Phone validate
 	 *

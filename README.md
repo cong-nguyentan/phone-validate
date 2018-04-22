@@ -1,4 +1,4 @@
-# PhoneValidate
+# phone-validate
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -34,7 +34,7 @@ $ composer require cong-nguyentan/phone-validate
 ## Usage
 
 ``` php
-$skeleton = new congnguyentan\PhoneValidate();
+$skeleton = new congnguyentan\phone-validate();
 echo $skeleton->echoPhrase('Hello, League!');
 ```
 

@@ -1,10 +1,10 @@
 {
-    "name": "congnguyentan/PhoneValidate",
+    "name": "congnguyentan/phone-validate",
     "type": "library",
     "description": ":Adding phone validate rule to laravel validation",
     "keywords": [
         "congnguyentan",
-        "PhoneValidate"
+        "phone-validate"
     ],
     "homepage": "https://github.com/cong-nguyentan/phone-validate",
     "license": "MIT",
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "congnguyentan\\PhoneValidate\\": "src"
+            "congnguyentan\\phone-validate\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "congnguyentan\\PhoneValidate\\": "tests"
+            "congnguyentan\\phone-validate\\": "tests"
         }
     },
     "scripts": {
