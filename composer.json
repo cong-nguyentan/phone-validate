@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":congnguyentan",
-            "email": ":cong.nguyentan@codeandmore.com",
-            "homepage": ":https://github.com/cong-nguyentan/phone-validate",
+            "name": "congnguyentan",
+            "email": "cong.nguyentan@codeandmore.com",
+            "homepage": "https://github.com/cong-nguyentan/phone-validate",
             "role": "Developer"
         }
     ],
