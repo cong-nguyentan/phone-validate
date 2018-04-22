@@ -1,10 +1,10 @@
 <?php
 
-namespace congnguyentan\phone-validate;
+namespace congnguyentan\PhoneValidate;
 
 use Illuminate\Support\ServiceProvider;
 
-class phone-validateServiceProvider extends ServiceProvider
+class PhoneValidateServiceProvider extends ServiceProvider
 {
     /**
      * Perform post-registration booting of services.
@@ -28,6 +28,6 @@ class phone-validateServiceProvider extends ServiceProvider
     }
 
     protected function registerValidationRule(){
-        Validator::extend('phone', 'congnguyentan\\phone-validate\\phone-validate@validatePhone', trans("phone_validate::phone_validate.invalid"));
+        Validator::extend('phone', 'congnguyentan\\PhoneValidate\\PhoneValidate@validatePhone', trans("phone_validate::phone_validate.invalid"));
     }
 }
