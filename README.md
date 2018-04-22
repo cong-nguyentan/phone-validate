@@ -28,7 +28,7 @@ vendor/
 Via Composer
 
 ``` bash
-$ composer require cong-nguyentan/PhoneValidate
+$ composer require cong-nguyentan/phone-validate
 ```
 
 ## Usage
@@ -65,17 +65,17 @@ If you discover any security related issues, please email cong.nguyentan@codeand
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/cong-nguyentan/PhoneValidate.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/cong-nguyentan/phone-validate.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/cong-nguyentan/PhoneValidate/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/cong-nguyentan/PhoneValidate.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/cong-nguyentan/PhoneValidate.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/cong-nguyentan/PhoneValidate.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/cong-nguyentan/phone-validate/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/cong-nguyentan/phone-validate.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/cong-nguyentan/phone-validate.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/cong-nguyentan/phone-validate.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/cong-nguyentan/PhoneValidate
-[link-travis]: https://travis-ci.org/cong-nguyentan/PhoneValidate
-[link-scrutinizer]: https://scrutinizer-ci.com/g/cong-nguyentan/PhoneValidate/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/cong-nguyentan/PhoneValidate
-[link-downloads]: https://packagist.org/packages/cong-nguyentan/PhoneValidate
+[link-packagist]: https://packagist.org/packages/cong-nguyentan/phone-validate
+[link-travis]: https://travis-ci.org/cong-nguyentan/phone-validate
+[link-scrutinizer]: https://scrutinizer-ci.com/g/cong-nguyentan/phone-validate/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/cong-nguyentan/phone-validate
+[link-downloads]: https://packagist.org/packages/cong-nguyentan/phone-validate
 [link-author]: https://github.com/cong-nguyentan
 [link-contributors]: ../../contributors

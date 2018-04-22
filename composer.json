@@ -6,13 +6,13 @@
         "congnguyentan",
         "PhoneValidate"
     ],
-    "homepage": "https://github.com/cong-nguyentan/PhoneValidate",
+    "homepage": "https://github.com/cong-nguyentan/phone-validate",
     "license": "MIT",
     "authors": [
         {
             "name": ":congnguyentan",
             "email": ":cong.nguyentan@codeandmore.com",
-            "homepage": ":https://github.com/cong-nguyentan/PhoneValidate",
+            "homepage": ":https://github.com/cong-nguyentan/phone-validate",
             "role": "Developer"
         }
     ],
